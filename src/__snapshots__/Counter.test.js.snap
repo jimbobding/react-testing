@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`counter Snapshot Should match DOM snapshot 1`] = `
+Array [
+  <h1>
+    Count: 
+    <h3
+      data-testid="count"
+    />
+  </h1>,
+  <button
+    onClick={[Function]}
+  >
+    Add
+  </button>,
+  <button
+    onClick={[Function]}
+  >
+    Minus
+  </button>,
+  <button
+    onClick={[Function]}
+  >
+    Restart
+  </button>,
+  <button
+    onClick={[Function]}
+  >
+    Switch
+  </button>,
+]
+`;
